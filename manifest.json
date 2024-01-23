@@ -6,9 +6,9 @@
     "version": "1",
     "permissions": ["tabs"],
     "icons": {
-      "16": "images/icon16.png",
-      "32": "images/icon32.png",
-      "48": "images/icon48.png",
-      "128": "images/icon128.png"
+      "16": "images/caticon16.png",
+      "32": "images/caticon32.png",
+      "48": "images/caticon48.ico",
+      "180": "images/caticon180.png"
     }
 }
