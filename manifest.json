@@ -1,5 +1,5 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "Catify Chrome Extension",
     "description": "Changes all the images on the website into random cat photos",
     "author": "Michael Sam",
