@@ -13,7 +13,7 @@
         "js": ["scripts/catify.js"]
       }
     ],
-    "browser_action": {
+    "action": {
       "default_popup": "popup.html",
       "default_title": "Catify Chrome Extension"
     },
