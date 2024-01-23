@@ -6,3 +6,8 @@ function catify() {
 }
 
 // TODO: Write a function to listen for messages on the content page using chrome.runtime.onMessage
+chrome.runtime.onMessage.addListener(
+  function(request, sender, sendResponse) {
+    if (request.action === 'catify') catify();
+  }
+);
