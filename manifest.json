@@ -13,6 +13,10 @@
         "js": ["scripts/catify.js"]
       }
     ],
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_title": "Catify Chrome Extension"
+    },
     "icons": {
       "16": "images/caticon16.png",
       "32": "images/caticon32.png",
